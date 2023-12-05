@@ -1,16 +1,3 @@
-# cart
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Title: Flutter Shopping Cart UI
+## Description:
+<p>This Flutter mobile app presents a sleek Shopping Cart UI, featuring a user-friendly interface to effortlessly add, increase, and remove products. The app seamlessly manages costs, allowing users to simulate a realistic shopping experience. Leveraging Flutter's flexibility, this project demonstrates efficient state management and intuitive design principles. Explore this repository to grasp a well-structured Flutter application showcasing essential functionalities for a smooth shopping cart experience. Ideal for learning Flutter basics or integrating a functional cart UI into your mobile projects. Dive in and enhance your Flutter skills while exploring this responsive and engaging shopping cart UI.</p>
